@@ -1,0 +1,9 @@
+{
+    "authorizations": [
+        {
+            "id": "baidu_ocr_auth",
+            "apiKey": "请填写百度OCR API的API Key",
+            "secretKey": "请填写百度OCR API的Secret Key"
+        }
+    ]
+}
